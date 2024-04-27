@@ -1,4 +1,4 @@
-### Hi! I am Rubens here here. 👋
+### Hi! I am Rubens here. 👋
 
     **Rubferreira/Rubferreira** é um ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
     
