@@ -1,12 +1,24 @@
 ### Hi! I am Rubens here. 👋
 
-    **Rubferreira/Rubferreira** é um ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+  ** Rubferreira/Rubferreira** é um ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.**
     
-- 🌱 Atualmente estou estudando Programação em Back-end e estou no nível Básico do processo `Harckers do Bem`;
-- 👯 Quero colaborar em projeto open source;
-- 🤔 Procuro entender e desenvolver a linguagem do código, pois a lógica é mais complexa do que a criação!
--  💬 Como colocar no código a arquitetura do projeto?
--  
+  
+   
+    
+    
+    🧑‍💻sobre mim    
+- 👨‍💻 Atualmente estou estudando Programação em Back-end;
+- 👷‍♂️ Em processo de transição de carreira;
+- 🔭  Estou no programa `Harckers do Bem`;
+- 🌱 Entusiasta da tecnologia em linguagem de código; 
+- 👯 Quero colaborar em projeto open source de modo uniforme;
+- 🤔 Procurar entender a linguagem do código; especificamente a lógica;
+- 🧑‍💻Como colocar no código a arquitetura do projeto?
+  
+   
+ 🛠   Pilha de tecnologia
+ 
+  
 
 
 
