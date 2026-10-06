@@ -25,9 +25,15 @@
 - **[Jogo do Número Secreto](https://github.com):** Um jogo clássico de adivinhação desenvolvido para praticar manipulação do DOM, funções recursivas com arrays e acessibilidade de áudio nativa em JavaScript.
 - 
 
-  Busco mentoria assíncrona e quem tiver interesse em avaliar meus
-  códigos e puder me dar um feedback para(ruberay.rf@gmail) ou deixe
-  seu contato para que eu envie o link do repositório.
+### 📩 Mentoria Assíncrona & Feedback
+Busco mentoria assíncrona de desenvolvedores mais experientes. Se você puder avaliar meus repositórios, sugerir melhorias ou debater sobre arquitetura, por favor:
+
+* 📭 Envie um feedback direto para o meu e-mail: **ruberay.rf@gmail**
+* 🐛 Ou abra uma **Issue** diretamente no meu projeto do Número Secreto.
+
+*Vamos construir algo juntos!*
+
+ 
    
  🛠   Pilha de tecnologia
  
