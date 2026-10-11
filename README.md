@@ -22,8 +22,8 @@
   | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) | ![Git](https://shields.io) ![GitHub]  (https://shields.io) | ![Redes](https://shields.io) |
 
   ### 🚀 Projeto em Destaque
-- **[Jogo do Número Secreto](https://github.com):** Um jogo clássico de adivinhação desenvolvido para praticar manipulação do DOM, funções recursivas com arrays e acessibilidade de áudio nativa em JavaScript.
-- 
+- **[Jogo do Número Secreto](https://rubferreira.github.io/Numero-Secreto/):** Um jogo clássico de adivinhação desenvolvido para praticar manipulação do DOM, funções recursivas com arrays e acessibilidade de áudio nativa em JavaScript.
+  
 
 ### 📩 Mentoria Assíncrona & Feedback
 Busco mentoria assíncrona de desenvolvedores mais experientes. Se você puder avaliar meus repositórios, sugerir melhorias ou debater sobre arquitetura, por favor:
